@@ -1,0 +1,77 @@
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+/*  ============= Configurações Globais =================== */
+
+body {
+  background: #000000;
+}
+
+/*  ============= Menu superior =================== */
+
+#h5{
+ 
+  color: #1737c7;
+}
+
+/* ============= Conteúdo da página =================== */
+
+.display-4 {
+  color: #ffff;
+}
+
+p {
+  color: #ffff;
+}
+.card-header {
+  background-color: #0b1f7a;
+  color: #fff;
+}
+
+.header-footer {
+  color: #fff;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+/* ============= Estilo dos botões da página =================== */
+
+.btn-outline-primary {
+  color: #fff;
+  background-color: #0b1f7a;
+  border-color: #0b1f7a;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #040c31;
+  border-color: #0b1f7a;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #0b1f7a;
+  border-color: #0b1f7a;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #040c31;
+  border-color: #0b1f7a;
+}
